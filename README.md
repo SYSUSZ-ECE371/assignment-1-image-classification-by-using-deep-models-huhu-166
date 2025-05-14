@@ -1,3 +1,3 @@
-文件夹Ex1中的mobilenet_v2_1x_flowers_configuration.py是要求的configuration file；flowermodel_trained10.pth是要求的the saved trained model
-文件夹Ex2中的exercise2.ipynb是要求的completed script file；exercise2_report.pdf是要求的report；
-exercise2要求的saved trained model由于一些冲突的存在无法通过git lfs提交，于是我将它作为release的附件提交，在assignment-1-image-classification-by-using-deep-models-huhu-166主页的release中可以看到，标题是Ex2/work_dir/best_model.pth，附件best_model.pth是要求的文件。
+文件夹Ex1中的mobilenet_v2_1x_flowers_configuration.py是要求的configuration file；flowermodel_trained10.pth是要求的the saved trained model    
+文件夹Ex2中的exercise2.ipynb是要求的completed script file；exercise2_report.pdf是要求的report；    
+exercise2要求的saved trained model由于一些冲突的存在无法通过git lfs提交，于是我将它作为release的附件提交，在assignment-1-image-classification-by-using-deep-models-huhu-166主页的releases中可以看到，标题是Ex2/work_dir/best_model.pth，附件best_model.pth是要求的文件。
